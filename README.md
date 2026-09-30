@@ -11,7 +11,7 @@ LumaTune is a full-stack React Native mobile app that recommends music based on 
 
 ---
 
-## ✨ Features
+## Features
 
 | Feature | Description |
 |---|---|
@@ -28,7 +28,7 @@ LumaTune is a full-stack React Native mobile app that recommends music based on 
 
 ---
 
-## 🏗️ Tech Stack
+## Tech Stack
 
 - **Framework** — React Native 0.81 + Expo 54
 - **Navigation** — React Navigation (native stack + bottom tabs)
@@ -41,7 +41,7 @@ LumaTune is a full-stack React Native mobile app that recommends music based on 
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 LumaTuneProj/
@@ -62,7 +62,7 @@ LumaTuneProj/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
